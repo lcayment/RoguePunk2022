@@ -1,0 +1,18 @@
+Le but du jeu :
+
+Tu es un cyborg et tu dois monter en haut de la tour de RogueCity ! Pour cela tu peux te deplacer avec les fleches du pave directionnel !
+
+Lorsque tu rencontres un ennemi, le combat se lance ! 4 options s'offrent a toi : 
+	- Attaque en cliquant sur A ! L'attaque peut echouer ou reussir et infliger des degats a ton ennemi
+	- Defendre en cliquant sur D ! La defense peut aussi echouer ou reussir et permet de te proteger des attaques de ton ennemi
+	- Boire une potion pour regagner des points de vie en cliquant sur P ! Attention ces potions ne sont pas illimitees !
+	- Fuir le combat en cliquant sur F !
+
+Tu trouveras differentes ressources cachees dans chaque niveau. Visite toutes les salles pour les decouvrir !
+
+Et derniere chose, n'oublie pas que pour emprunter un teleporteur tu dois obtenir une cle qui est elle aussi cachee dans le niveau !
+Une fois cette cle obtenue que tu te trouves sur le teleporteur, clique sur la touche "/" !
+
+BON COURAGE 
+
+PS : appuie sur X pour revenir au jeu !

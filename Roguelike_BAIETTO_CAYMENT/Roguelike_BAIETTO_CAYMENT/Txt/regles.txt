@@ -1,0 +1,12 @@
+Bonjour jeune cyborg et bienvenu dans la tour de Roguecity !
+Ton but ? Grimper tous ses etages pour atteindre le sommet ! Pour commencer bienvenu au shop ! Ici tu peux choisir l'equipement
+qui te convient le mieux. Trois types d'equipements s'offrent a toi :
+            - Tape O pour jouer offensif et choisir les bras armes cybernetiques. Une merveille de technologie, cette paire de bras te permettra d'avoir 
+            plus de reussite en attaque ! Pratique contre les nombreux ennemis !
+            - Tu peux aussi tapez D et opter pour un modele d'armure dernier cri ! Grace a cette armure complete tu auras 
+            plus de reussite en defense !
+            - Et enfin, si tu preferes la jouer furtif, tape F pour avoir ses jambes qui te permettent d'etre plus rapide que tes ennemis
+
+A TOI DE JOUER !
+
+PS : tu peux consulter les regles et le but du jeu a tout moment pendant la partie en appuyant sur M !

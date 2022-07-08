@@ -1,0 +1,16 @@
+H:\Roguelike_BAIETTO_CAYMENT\Roguelike_BAIETTO_CAYMENT\bin\Debug\Roguelike_BAIETTO_CAYMENT.exe.config
+H:\Roguelike_BAIETTO_CAYMENT\Roguelike_BAIETTO_CAYMENT\obj\Debug\Roguelike_BAIETTO_CAYMENT.csprojResolveAssemblyReference.cache
+H:\Roguelike_BAIETTO_CAYMENT\Roguelike_BAIETTO_CAYMENT\bin\Debug\Roguelike_BAIETTO_CAYMENT.exe
+H:\Roguelike_BAIETTO_CAYMENT\Roguelike_BAIETTO_CAYMENT\bin\Debug\Roguelike_BAIETTO_CAYMENT.pdb
+H:\Roguelike_BAIETTO_CAYMENT\Roguelike_BAIETTO_CAYMENT\bin\Debug\OpenTK.dll
+H:\Roguelike_BAIETTO_CAYMENT\Roguelike_BAIETTO_CAYMENT\bin\Debug\RLNET.dll
+H:\Roguelike_BAIETTO_CAYMENT\Roguelike_BAIETTO_CAYMENT\bin\Debug\RogueSharp.dll
+H:\Roguelike_BAIETTO_CAYMENT\Roguelike_BAIETTO_CAYMENT\bin\Debug\OpenTK.xml
+H:\Roguelike_BAIETTO_CAYMENT\Roguelike_BAIETTO_CAYMENT\obj\Debug\Roguelike_BAIETTO_CAYMENT.exe
+H:\Roguelike_BAIETTO_CAYMENT\Roguelike_BAIETTO_CAYMENT\obj\Debug\Roguelike_BAIETTO_CAYMENT.pdb
+H:\Roguelike_BAIETTO_CAYMENT\Roguelike_BAIETTO_CAYMENT\bin\Debug\terminal8x8.png
+H:\Roguelike_BAIETTO_CAYMENT\Roguelike_BAIETTO_CAYMENT\bin\Debug\Txt\butdujeu.txt
+H:\Roguelike_BAIETTO_CAYMENT\Roguelike_BAIETTO_CAYMENT\bin\Debug\Txt\gameover.txt
+H:\Roguelike_BAIETTO_CAYMENT\Roguelike_BAIETTO_CAYMENT\bin\Debug\Txt\regles.txt
+H:\Roguelike_BAIETTO_CAYMENT\Roguelike_BAIETTO_CAYMENT\bin\Debug\Txt\title.txt
+H:\Roguelike_BAIETTO_CAYMENT\Roguelike_BAIETTO_CAYMENT\bin\Debug\Txt\victoire.txt
